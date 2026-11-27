@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.DEINE-DOMAIN.de/sitemap.xml
+Sitemap: https://www.johanna-thon.de/sitemap.xml
